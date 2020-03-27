@@ -110,6 +110,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Data
+data/
+
+# Model Checkpoints
+models/
+
 # Spyder project settings
 .spyderproject
 .spyproject
