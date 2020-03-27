@@ -116,6 +116,9 @@ data/
 # Model Checkpoints
 models/
 
+# PyCharm settings
+.idea
+
 # Spyder project settings
 .spyderproject
 .spyproject
